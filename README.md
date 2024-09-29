@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akkuraina
 - 👀 I’m interested in playing the piano and reading books
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
 - 😄 Pronouns: she/her
