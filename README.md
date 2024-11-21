@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akkuraina , a second year engineering student based in mumbai.
+- 👋 Hi, I’m Akanksha, a second year engineering student based in mumbai.
 - 👀 I’m interested in playing the piano and reading books.
 - 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
