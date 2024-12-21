@@ -9,7 +9,7 @@
   3. October 2024 Calendar - https://calender-october.vercel.app/
   4. Hackathon Website - https://akkuraina.github.io/IETE/
   5. Movie reccommendation based on human emotions - https://movierecomm1.streamlit.app/
-  6. Portfolio websites - https://akkuraina.github.io/Portfolio/
+  6. Portfolio - https://akkuraina.github.io/Portfolio/
 
 <!---
 akkuraina/akkuraina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
