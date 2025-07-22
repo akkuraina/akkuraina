@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Akanksha, a second year engineering student based in mumbai.
-- 🌱 I’m currently making web experiences using any and all technologies.
+- 👋 Hi, I’m Akanksha, a third year engineering student based in mumbai.
+- 🌱 I’m currently making web experiences using any and all technologies i come across, as well as practicing dsa.
 - 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
