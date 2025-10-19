@@ -4,14 +4,12 @@
 <p align="center">
   <i>Based in Mumbai, I love coding in my free time and building cool projects using modern technologies!</i>
 </p>
----
 
 ## ✨ About Me
 <p align="center">
 I enjoy creating <b>fullstack applications</b>, experimenting with <b>AI/ML projects</b>, and constantly learning new technologies.  
 Currently exploring the limitless world of <b>Machine Learning</b> through <b>Python</b>!
 </p>
----
 
 ## 🧰 Languages & Tools
 <p align="center">
@@ -47,7 +45,6 @@ Currently exploring the limitless world of <b>Machine Learning</b> through <b>Py
   <img alt="MS PowerPoint" src="https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
