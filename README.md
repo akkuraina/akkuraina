@@ -53,8 +53,8 @@ Currently exploring the limitless world of <b>Python, JS, TS, React, and Next.js
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akanksharaina&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksharaina&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkuraina&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkuraina&theme=radical" alt="GitHub Streak" />
 </p>
 
-- 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
+## 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
