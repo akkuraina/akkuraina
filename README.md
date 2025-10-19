@@ -57,4 +57,12 @@ Currently exploring the limitless world of <b>Python, JS, TS, React, and Next.js
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkuraina&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 📫 How to reach me: akanksharainadjsce@gmail.com | https://www.linkedin.com/in/akanksha-raina-4637b5268/
+## 📫 How to Reach Me
+<p align="center">
+  <a href="mailto:akanksharainadjsce@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-akanksharainadjsce@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akanksha-raina-4637b5268/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akanksha%20Raina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
