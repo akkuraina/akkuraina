@@ -4,7 +4,13 @@
 <p align="center">
   <i>Based in Mumbai, I love coding in my free time and building cool projects using modern technologies!</i>
 </p>
+---
 
+## ✨ About Me
+<p align="center">
+I enjoy creating <b>fullstack applications</b>, experimenting with <b>AI/ML projects</b>, and constantly learning new technologies.  
+Currently exploring the limitless world of <b>Machine Learning</b> through <b>Python</b>!
+</p>
 ---
 
 ## 🧰 Languages & Tools
@@ -39,14 +45,6 @@
   <img alt="MS Excel" src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MS Word" src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img alt="MS PowerPoint" src="https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
-
----
-
-## ✨ About Me
-<p align="center">
-I enjoy creating <b>fullstack applications</b>, experimenting with <b>AI/ML projects</b>, and constantly learning new technologies.  
-Currently exploring the limitless world of <b>Python, JS, TS, React, and Next.js</b>!
 </p>
 
 ---
