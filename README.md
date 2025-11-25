@@ -43,9 +43,8 @@
 <p align="center">
   <a href="mailto:akanksharainadjsce@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-akanksharainadjsce@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  
+  </a>  
+</br>
   <a href="https://www.linkedin.com/in/akanksha-raina-4637b5268/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akanksha%20Raina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
