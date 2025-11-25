@@ -1,14 +1,8 @@
-<h1 align="center">👋 Hi, I'm Akanksha Raina!</h1>
+<h1 align="center">Hi, I'm Akanksha!</h1>
 <h3 align="center">Third-year Engineering Student | Fullstack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <i>Based in Mumbai, I love coding in my free time and building cool projects using modern technologies!</i>
-</p>
-
-## ✨ About Me
-<p align="center">
-I enjoy creating <b>fullstack applications</b>, experimenting with <b>AI/ML projects</b>, and constantly learning new technologies.  
-Currently exploring the limitless world of <b>Machine Learning</b> through <b>Python</b>!
+  <i>Based in Mumbai, I code in my free time / read in my me time <3</i>
 </p>
 
 ## 🧰 Languages & Tools
@@ -43,13 +37,6 @@ Currently exploring the limitless world of <b>Machine Learning</b> through <b>Py
   <img alt="MS Excel" src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MS Word" src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img alt="MS PowerPoint" src="https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkuraina&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkuraina&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📫 How to Reach Me
