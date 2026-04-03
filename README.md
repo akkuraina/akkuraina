@@ -73,8 +73,7 @@ I build **impact-driven, scalable applications** that blend **AI, real-time syst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" title="Vercel"/>
-  <img src="https://seeklogo.com/images/R/render-logo-718C0F5F08-seeklogo.com.png" height="40" title="Render"/>
-</p>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" title="Render"/></p>
 
 ---
 
