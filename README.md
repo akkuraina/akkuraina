@@ -111,7 +111,7 @@ I build **impact-driven, scalable applications** that blend **AI, real-time syst
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/akanksha-raina-4637b5268/">
@@ -120,8 +120,10 @@ I build **impact-driven, scalable applications** that blend **AI, real-time syst
   <a href="https://github.com/akkuraina">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
+  <a href="https://instagram.com/akkuraina">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40"/>
+  </a>
 </p>
-
 
 ---
 
