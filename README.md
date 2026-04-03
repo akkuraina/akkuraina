@@ -1,51 +1,128 @@
-<h1 align="center">Hi, I'm Akanksha!</h1>
-<h3 align="center">Third-year Engineering Student | Fullstack Developer | AI/ML Enthusiast</h3>
+# 👋 Hey, I'm Akanksha Raina
 
-<p align="center">
-  <i>Based in Mumbai, I code in my free time / read in my me time <3</i>
+🚀 **Full-Stack Developer | AI/ML Enthusiast | Real-Time Systems Builder**  
+🎓 B.Tech Electronics & Telecommunication (Honors in AIML)  
+📍 Mumbai, India  
+
+---
+
+## ✨ About Me
+
+I build **impact-driven, scalable applications** that blend **AI, real-time systems, and modern web technologies**.
+
+- ⚡ Passionate about crafting **intelligent & interactive user experiences**
+- 🧠 Exploring the intersection of **AI + frontend + system design**
+- 🔧 Love turning complex problems into **clean, efficient solutions**
+- 🎯 Strong focus on **performance, scalability, and real-world impact**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
-## 🧰 Languages & Tools
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+---
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40"/>
 </p>
 
-## 💾 Databases
-<p align="center">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+---
+
+### 🎨 UI & Animation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="40"/>
 </p>
 
-## 🖥️ Frameworks & Libraries
-<p align="center">
-  <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
-## ⚙️ Tools & Platforms
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img alt="MS Excel" src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img alt="MS Word" src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img alt="MS PowerPoint" src="https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+---
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40"/>
 </p>
 
-## 📫 How to Reach Me
-<p align="center">
-  <a href="mailto:akanksharainadjsce@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-akanksharainadjsce@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-</br>
+---
+
+
+## 🚀 Featured Projects
+
+### 🧠 NeuroHaven
+> AI-powered mental wellness platform
+
+- Real-time **mood analysis + conversational AI**
+- Dynamic **emotional heatmaps for behavioral insights**
+- Built with **modular architecture & secure Firebase backend**
+
+🔗 https://github.com/akkuraina/neurohaven  
+
+---
+
+### 🎮 Flagzilla
+> Real-time 3D multiplayer capture-the-flag game
+
+- ⚡ Smooth rendering using **Three.js + React Three Fiber**
+- 🔄 **WebSocket-powered multiplayer sync**
+- 🧩 Backend with **auth, matchmaking, leaderboard systems**
+
+---
+
+### 💬 YapMonster
+> Scalable real-time chat application
+
+- 🔐 JWT-based authentication system
+- 🌐 Room-based messaging via **Socket.IO**
+- 🚀 Deployed for **high availability (Vercel + Render)**
+
+🔗 https://yap-monster.vercel.app/
+
+---
+
+## 🌐 Let's Connect
+
+<p>
   <a href="https://www.linkedin.com/in/akanksha-raina-4637b5268/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akanksha%20Raina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="https://github.com/akkuraina">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
 </p>
+
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect!*
